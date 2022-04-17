@@ -1,6 +1,6 @@
 {
     "name": "Angelina ",
-    "description": "Anjelina is the modified Version of WhatsAsena, Made By Jackz and Broken with Baileys.",
+    "description": "Anjelina is the modified Version of WhatsAsena, Made By Dj monster and Broken with Baileys.",
     "logo": "https://i.imgur.com/HvQxkKd.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Jackz-ser/Angelina",
@@ -33,7 +33,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
-            "value": "Jackz"
+            "value": "Dj monster"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -197,7 +197,7 @@
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "918075641889"
+            "value": "27658052694"
         },
         "DEPLOYER": {
             "description": "enter your name here",
